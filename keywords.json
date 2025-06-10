@@ -1,0 +1,9 @@
+{
+    "ds_dev": ["tensorflow", "keras", "pytorch", "machine learning", "deep learning", "flask", "streamlit"],
+    "backend_dev": ["Python", "Java", "Node.js", "SQL", "APIs", "Django", "Flask", "Database Design"],
+    "mobile_app_dev": ["Swift", "Kotlin", "React Native", "Flutter", "Mobile UI/UX", "App Store Deployment"],
+    "ios_dev": ["Swift", "Objective-C", "Xcode", "iOS SDK", "App Store Deployment"],
+    "ui_ux_designer": ["UI/UX", "Wireframing", "Prototyping", "User Research", "Adobe XD"]
+}
+
+

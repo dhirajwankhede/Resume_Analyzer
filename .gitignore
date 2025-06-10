@@ -1,0 +1,8 @@
+#add the .env and venv directly in gitignore
+.env
+venv
+# Python cache files
+__pycache__/
+*.py[cod]
+# User-uploaded files
+Uploaded_Resumes/
